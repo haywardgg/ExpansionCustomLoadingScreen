@@ -2,19 +2,16 @@
  Expansion Custom Loading Screen - Template
 
 I'm assuming you already know how to use DayZ Tools.
- 
+
 - Download this source folder and add it to your P drive. 
-- Add your screenshots to \Data\LoadingScreens , as PNG files
-  
-  Delete: mylogo.edds, mylogo.edds.meta . Add your own!
-  Delete: screen1/2.edds, screen1/2.edds.meta . Add your own!
-  
-- Open DayZ Tools and convert those files to EDDS format. (Google how-to)
-- Edit \Data\LoadingScreens\LoadingImages.json . Add your screenshots.
-- Add your logo to \Data\LoadingScreens as a PNG File.
-- Convert the logo PNG file to EDDS format.
+
+I've included mylogo.edds, screen1.edds and screen2.edds in the Data\LoadingScreens folder for reference.
+I suggest deleting everything in that folder except for the two .json files before continuing. 
+
+- Add your screenshots and logo to \Data\LoadingScreens. Remember to convert them to edds format.
+- Edit \Data\LoadingScreens\LoadingImages.json and update as necessary with your screenshot names.
 - Update \scripts\3_Game\CustomLoadingScreen.c with your logo Edds file name (Line 3)
-- Edit \Data\LoadingScreens\LoadingMessages.json . Add your own messages.
+- Edit \Data\LoadingScreens\LoadingMessages.json and add your own messages.
 - Repack , publish and enjoy.
 
 Always open the PBO after building and check all the files that should be there, are there.
