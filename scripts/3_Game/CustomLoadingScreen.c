@@ -4,7 +4,7 @@ const string LOADING_SCREEN_LOGO 	= "ExpansionCustomLoadingScreen/Data/LoadingSc
 
 const bool UseCustomLoadingPictures = true;
 const bool UseCustomLoadingMessages = true;
-const bool UseCustomLogo 			= true;
+const bool UseCustomLogo 	    = true;
 
 modded class LoadingScreen 
 {
