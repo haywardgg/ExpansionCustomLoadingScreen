@@ -8,7 +8,7 @@ I'm assuming you already know how to use DayZ Tools.
 I've included `mylogo.edds`, `screen1.edds` and `screen2.edds` in the `Data\LoadingScreens` folder for reference.
 I suggest deleting everything in that folder except for the two .json files before continuing. 
 
-- Add your screenshots and logo to `\Data\LoadingScreens`. Remember to convert them to edds format.
+- Add your screenshots and logo to `\Data\LoadingScreens`, then convert them to edds format.
 - Edit `\Data\LoadingScreens\LoadingImages.json` and update as necessary with your screenshot names.
 - Update `\scripts\3_Game\CustomLoadingScreen.c` with your logo Edds file name (Line 3)
 - Edit `\Data\LoadingScreens\LoadingMessages.json` and add your own messages.
