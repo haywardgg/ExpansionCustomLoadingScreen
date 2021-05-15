@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{236F995286A998B6}ExpansionCustomLoadingScreen/Data/LoadingScreens/screen1.edds"
+ Author "desktop-bnajkqd"
+ ChangeDate -1580422487
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "screen1.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

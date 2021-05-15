@@ -1,0 +1,14 @@
+[
+    {
+        "message": "TEST",
+        "submitter": "USER"
+    },
+    {
+        "message": "ANOTHER TEST",
+        "submitter": "USER 2"
+    },
+    {
+        "message": ".. AND ANOTHER!",
+        "submitter": "USER 3"
+    }
+]

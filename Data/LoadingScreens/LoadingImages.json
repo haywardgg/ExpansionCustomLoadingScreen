@@ -1,0 +1,17 @@
+[
+   {
+        "MapName": "default",
+        "Path":
+        [
+        "ExpansionCustomLoadingScreen/Data/LoadingScreens/screen2.edds"
+        ]
+    },
+    {
+        "MapName": "chernarusplus",
+        "Path":
+        [
+        "ExpansionCustomLoadingScreen/Data/LoadingScreens/screen1.edds",
+        "ExpansionCustomLoadingScreen/Data/LoadingScreens/screen2.edds"
+        ]
+    }
+]
