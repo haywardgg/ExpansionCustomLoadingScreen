@@ -5,7 +5,10 @@ I'm assuming you already know how to use DayZ Tools.
  
 - Download this source folder and add it to your P drive. 
 - Add your screenshots to \Data\LoadingScreens , as PNG files
-   Replace the example images with your own (Mine are just for reference)
+  
+  Delete: mylogo.edds, mylogo.edds.meta . Add your own!
+  Delete: screen1/2.edds, screen1/2.edds.meta . Add your own!
+  
 - Open DayZ Tools and convert those files to EDDS format. (Google how-to)
 - Edit \Data\LoadingScreens\LoadingImages.json . Add your screenshots.
 - Add your logo to \Data\LoadingScreens as a PNG File.
