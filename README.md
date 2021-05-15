@@ -13,7 +13,7 @@ I suggest deleting everything in that folder except for the two .json files befo
 - Update `\scripts\3_Game\CustomLoadingScreen.c` with your logo Edds file name (Line 3)
 - Edit `\Data\LoadingScreens\LoadingMessages.json` and add your own messages.
 - Optional: You can disable the logo in `CustomLoadingScreen.c` line 47 .
-- Repack , publish and enjoy.
+- Pack, publish and enjoy.
 
 Always open the PBO after building and check all the files that should be there, are there.
 Add these in the General > List of Files to Copy Directly list in your PBO Manager..
