@@ -21,7 +21,7 @@ class CfgMods
 		hideName=1;
 		hidePicture=1;
 		name="Custom Loading Screen";
-		credits=""; 
+		credits="Lee Hayward"; 
 		author="";
 		authorID="";  
 		version="1";
