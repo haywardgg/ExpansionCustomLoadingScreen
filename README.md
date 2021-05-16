@@ -15,8 +15,8 @@ I suggest deleting everything in that folder except for the two .json files befo
 - Optional: You can disable the logo in `CustomLoadingScreen.c` line 47 .
 - Pack, publish and enjoy.
 
-Always open the PBO after building and check all the files that should be there, are there.
-Add these in the General > List of Files to Copy Directly list in your PBO Manager..
+Always open the PBO after building and check all the files that should be there, are there.  
+Add these in the General > List of Files to Copy Directly list in your PBO Manager..  
 `*.emat;*.edds;*.ptc;*.c;*.imageset;*.layout;*.ogg;*.paa;*.rvmat;*.wrp;*.json`
 
 Ask for help in the comments below or join my Discord here: https://discord.gg/E8yn87Ahbx
