@@ -3,7 +3,7 @@
 
 I'm assuming you already know how to use DayZ Tools.
 
-- Download and unzip this project to your P drive, then rename the folder to `ExpansionCustomLoadingScreen` without the `-main` part.
+- Download and unzip this project to your P drive, then rename the folder to `ExpansionCustomLoadingScreen`.
 
 I've included `mylogo.edds`, `screen1.edds` and `screen2.edds` in the `Data\LoadingScreens` folder for reference.
 I suggest deleting everything in that folder except for the two .json files before continuing. 
