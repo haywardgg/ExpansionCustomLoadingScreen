@@ -3,7 +3,7 @@
 
 I'm assuming you already know how to use DayZ Tools.
 
-- Download https://github.com/haywardgb/ExpansionCustomLoadingScreen/archive/refs/heads/main.zip and unzip it to your P drive, then rename the folder to `ExpansionCustomLoadingScreen`
+- Download https://github.com/haywardgb/ExpansionCustomLoadingScreen/archive/refs/heads/main.zip and unzip it to your P drive, then rename the folder to `ExpansionCustomLoadingScreen` without the `-main` part.
 
 I've included `mylogo.edds`, `screen1.edds` and `screen2.edds` in the `Data\LoadingScreens` folder for reference.
 I suggest deleting everything in that folder except for the two .json files before continuing. 
