@@ -21,5 +21,3 @@ In DayZ Tools Workshop, right mouse click the image file and choose "Register Re
 Always open the PBO after building and check all the files that should be there, are there.  
 Add these in the General > List of Files to Copy Directly list in your PBO Manager..  
 `*.emat;*.edds;*.ptc;*.c;*.imageset;*.layout;*.ogg;*.paa;*.rvmat;*.wrp;*.json`
-
-Ask for help in the comments below or join my Discord here: https://discord.gg/E8yn87Ahbx
