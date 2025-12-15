@@ -1,3 +1,6 @@
+## This project is no longer being maintained by myself. 
+I no longer play DayZ. Please consider forking this project.
+
 # Expansion Custom Loading Screen
  Expansion Custom Loading Screen - Template
 
